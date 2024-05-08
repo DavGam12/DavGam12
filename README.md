@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavGam12
-- 👀 I’m interested in laerning and testing different coding languages.
+- 👀 I’m interested in learning and testing different coding languages.
 - 🌱 I’m currently learning Back-end and Front-end languages.
 <!---
 - 💞️ I’m looking to collaborate on Back-end related proyects.
